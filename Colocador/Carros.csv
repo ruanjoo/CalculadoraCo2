@@ -1,0 +1,601 @@
+CHASSI,NOMECARRO,KMPORDIA,COMBUSTIVEL
+1023,Toyota Corolla,41,diesel
+1079,Honda Civic,28,gasolina
+1182,Ford Mustang,24,diesel
+1288,Chevrolet Camaro,59,gasolina
+1329,Volkswagen Golf,50,diesel
+1338,BMW 3 Series,26,alcool
+1368,Mercedes-Benz C-Class,46,gasolina
+1420,Audi A4,20,diesel
+1486,Subaru Outback,68,gnv
+1717,Jeep Wrangler,66,diesel
+1747,Nissan Altima,22,diesel
+1813,Hyundai Sonata,57,alcool
+1845,Kia Optima,65,gasolina
+1924,Mazda MX-5,40,diesel
+1975,Tesla Model S,25,diesel
+2130,Porsche 911,59,gasolina
+2236,Ferrari 488,18,diesel
+2257,Lamborghini Huracan,56,gnv
+2565,Aston Martin Vantage,39,gasolina
+2729,Lexus RX,26,diesel
+2835,Jaguar F-Type,57,diesel
+2848,Land Rover Range Rover,37,gasolina
+2858,Dodge Challenger,58,gasolina
+3011,Chrysler 300,50,gasolina
+3215,Buick Regal,30,diesel
+3233,Lincoln Navigator,20,diesel
+3717,Cadillac Escalade,62,diesel
+3753,GMC Yukon,18,diesel
+3762,Infiniti Q50,25,diesel
+3777,Volvo XC90,66,diesel
+3780,Fiat 500,28,gasolina
+3801,Mini Cooper,49,diesel
+3847,Alfa Romeo Giulia,17,diesel
+3900,Maserati GranTurismo,65,gasolina
+3940,Rolls-Royce Phantom,34,diesel
+4069,Bentley Continental GT,55,diesel
+4078,Bugatti Chiron,35,alcool
+4226,McLaren 720S,15,gasolina
+4338,Lotus Evora,33,diesel
+4348,Suzuki Swift,22,gasolina
+4392,Peugeot 308,62,gasolina
+4417,Citroen C3,39,diesel
+4464,Renault Clio,31,diesel
+4602,Skoda Octavia,40,diesel
+4670,Seat Leon,69,gasolina
+4677,Opel Corsa,58,diesel
+4895,Hyundai Tucson,38,gasolina
+4974,Kia Sportage,37,diesel
+5019,Nissan Qashqai,37,diesel
+5036,Toyota RAV4,50,diesel
+5164,Honda CR-V,49,gasolina
+5180,Ford Escape,21,diesel
+5210,Chevrolet Equinox,15,diesel
+5213,Volkswagen Tiguan,69,diesel
+5223,BMW X3,66,diesel
+5269,Mercedes-Benz GLC,18,diesel
+5356,Audi Q5,32,gasolina
+5439,Subaru Forester,51,diesel
+5467,Jeep Grand Cherokee,63,gasolina
+5687,Land Rover Discovery,15,diesel
+5784,Porsche Cayenne,67,diesel
+5869,Lexus NX,62,gasolina
+5979,Jaguar F-Pace,39,diesel
+6004,Dodge Durango,43,diesel
+6025,Volvo XC60,31,diesel
+6181,Buick Enclave,16,diesel
+6222,Lincoln Aviator,18,diesel
+6306,Cadillac XT5,23,diesel
+6391,GMC Acadia,42,diesel
+6604,Infiniti QX50,69,diesel
+6655,Fiat 500X,31,diesel
+6685,Mini Countryman,59,diesel
+6722,Alfa Romeo Stelvio,16,diesel
+6725,Maserati Levante,48,diesel
+6777,Rolls-Royce Cullinan,35,gasolina
+6789,Bentley Bentayga,21,diesel
+6792,McLaren GT,38,diesel
+6806,Lotus Exige,16,diesel
+6877,Suzuki Jimny,17,diesel
+7225,Peugeot 3008,32,diesel
+7230,Citroen C4,43,diesel
+7259,Renault Kadjar,26,gasolina
+7340,Skoda Kodiaq,57,diesel
+7363,Seat Ateca,18,diesel
+7365,Opel Crossland X,16,diesel
+7378,Hyundai Santa Fe,66,gasolina
+7405,Kia Sorento,52,diesel
+7633,Nissan Rogue,52,gnv
+7709,Toyota Highlander,15,diesel
+7917,Honda Pilot,16,gasolina
+7974,Ford Explorer,54,diesel
+8029,Chevrolet Traverse,48,diesel
+8147,Volkswagen Atlas,40,gasolina
+8168,BMW X5,37,diesel
+8408,Mercedes-Benz GLE,52,diesel
+8437,Audi Q7,25,diesel
+8613,Subaru Ascent,36,diesel
+8707,Jeep Cherokee,57,diesel
+8735,Land Rover Range Rover Sport,31,diesel
+8843,Porsche Macan,35,diesel
+8848,Ford Focus,41,Gasolina
+8965,Chevrolet Cruze,28,Diesel
+9011,Volkswagen Jetta,24,Gasolina
+9046,Toyota Camry,59,GNV
+9123,Honda Accord,50,Álcool
+9145,Nissan Sentra,26,Diesel
+9256,Hyundai Elantra,46,Gasolina
+9380,Kia Forte,20,Álcool
+9401,Mazda3,68,Álcool
+9443,Subaru Impreza,66,GNV
+9496,Jeep Renegade,22,Diesel
+9522,Fiat 500L,57,Gasolina
+9577,Mini Clubman,65,Álcool
+9654,Alfa Romeo 4C,40,Diesel
+9702,Maserati Ghibli,25,GNV
+9745,Rolls-Royce Ghost,59,Diesel
+9810,Bentley Mulsanne,18,Gasolina
+9887,Bugatti Veyron,56,Álcool
+9902,McLaren 570S,39,Diesel
+9931,Lotus Elise,26,Álcool
+10009,Suzuki Alto,57,Diesel
+10052,Peugeot 208,37,Álcool
+10093,Citroen C1,58,Álcool
+10128,Renault Twingo,50,GNV
+10161,Skoda Fabia,30,Gasolina
+10198,Seat Ibiza,20,GNV
+10247,Opel Adam,62,Diesel
+10305,Hyundai Kona,18,Diesel
+10323,Kia Soul,25,Diesel
+10378,Nissan Juke,66,Álcool
+10410,Toyota C-HR,28,GNV
+10443,Honda HR-V,49,Gasolina
+10471,Ford EcoSport,17,GNV
+10529,Chevrolet Trax,65,GNV
+10565,Volkswagen T-Roc,34,Gasolina
+10600,BMW X1,55,GNV
+10624,Mercedes-Benz GLA,35,Gasolina
+10674,Audi Q3,15,Diesel
+10721,Subaru Crosstrek,33,Gasolina
+10757,Jeep Compass,22,GNV
+10790,Land Rover Defender,62,Álcool
+10832,Porsche Macan,39,Diesel
+10877,Lexus UX,31,Gasolina
+10910,Jaguar E-Pace,40,GNV
+10955,Dodge Journey,69,GNV
+10992,Volvo XC40,58,Diesel
+11029,Buick Encore,38,Álcool
+11075,Lincoln Corsair,37,Gasolina
+11120,Cadillac XT4,37,Diesel
+11157,GMC Terrain,50,Álcool
+11201,Infiniti QX30,49,Álcool
+11254,Fiat Panda,21,Diesel
+11303,Mini Hatch,15,GNV
+11339,Alfa Romeo MiTo,69,Diesel
+11381,Maserati Quattroporte,66,Álcool
+11421,Rolls-Royce Wraith,18,Gasolina
+11468,Bentley Flying Spur,32,GNV
+11501,McLaren 600LT,51,Álcool
+11549,Lotus Elan,63,Gasolina
+11584,Suzuki Celerio,15,Gasolina
+11623,Peugeot 108,67,Álcool
+11660,Citroen C2,62,GNV
+11699,Renault Zoe,39,GNV
+11733,Skoda Citigo,43,Gasolina
+11782,Seat Mii,31,Gasolina
+11825,Opel Karl,16,Gasolina
+11862,Hyundai Veloster,18,Gasolina
+11899,Kia Rio,23,Diesel
+11947,Nissan Micra,42,GNV
+11992,Toyota Yaris,69,Álcool
+12021,Honda Fit,31,Diesel
+12078,Ford Fiesta,59,GNV
+12112,Chevrolet Spark,16,Álcool
+12155,Volkswagen Polo,48,Gasolina
+12191,BMW 1 Series,35,GNV
+12233,Mercedes-Benz A-Class,21,Álcool
+12275,Audi A3,38,Álcool
+12313,Subaru Legacy,16,Diesel
+12356,Jeep Cherokee,17,Diesel
+12397,Land Rover Discovery Sport,32,GNV
+12431,Porsche 718 Cayman,43,Diesel
+12468,Lexus IS,26,Álcool
+12514,Jaguar XE,57,Álcool
+12549,Dodge Charger,18,Diesel
+12591,Volvo V60,16,Álcool
+12636,Buick Encore GX,66,Álcool
+12676,Lincoln Nautilus,52,Diesel
+12721,Cadillac XT6,52,Gasolina
+12755,GMC Terrain,15,Gasolina
+12794,Infiniti QX60,16,Álcool
+12833,Fiat Tipo,54,Gasolina
+12872,Mini Convertible,48,Gasolina
+12914,Alfa Romeo 8C,40,Diesel
+12955,Maserati Alfieri,37,GNV
+12989,Rolls-Royce Dawn,52,GNV
+13038,Bentley Brooklands,25,GNV
+13070,McLaren 650S,36,Diesel
+13117,Lotus Elise Sport,57,Álcool
+13164,Suzuki Ignis,31,Álcool
+13210,Peugeot 208 GTi,35,GNV
+13249,Citroen DS3,53,Diesel
+13295,Renault Captur,80,Gasolina
+13342,Skoda Scala,51,Gasolina
+13381,Seat Arona,88,Álcool
+13422,Opel Mokka,69,Álcool
+13467,Hyundai Venue,43,GNV
+13516,Kia Stonic,77,GNV
+13560,Nissan Kicks,24,Gasolina
+13598,Toyota Corolla Cross,99,Diesel
+13635,Honda HR-V,17,Diesel
+13673,Ford Puma,100,Gasolina
+13716,Chevrolet Trailblazer,23,Diesel
+13755,Volkswagen T-Cross,83,Álcool
+13802,BMW X2,62,Álcool
+13849,Mercedes-Benz GLB,74,Diesel
+13887,Audi Q2,36,Diesel
+13929,Subaru XV,28,Gasolina
+13965,Jeep Compass Trailhawk,84,Álcool
+14011,Land Rover Range Rover Evoque,8,Gasolina
+14054,Porsche Cayman GT4,65,GNV
+14099,Lexus RC,80,Diesel
+14141,Jaguar XJ,73,Diesel
+14178,Dodge Charger SRT Hellcat,22,Gasolina
+14222,Volvo V90,57,GNV
+14270,Buick Envision,70,GNV
+14315,Lincoln Corsair Grand Touring,16,Diesel
+14355,Cadillac XT4 Sport,40,Álcool
+14401,GMC Acadia AT4,72,Álcool
+14439,Infiniti QX80,11,Diesel
+14487,Fiat 500e,12,Álcool
+14533,Mini Electric,48,Diesel
+14578,Alfa Romeo Tonale,6,Gasolina
+14621,Maserati Alfieri,23,Diesel
+14662,Rolls-Royce Wraith Black Badge,11,Álcool
+14706,Bentley Bentayga Mulliner,67,Álcool
+14750,McLaren 675LT,95,Gasolina
+14793,Lotus Elise Cup,23,Diesel
+14832,Suzuki Baleno,16,GNV
+14876,Peugeot 208 Allure,44,Gasolina
+14920,Citroen C3 Aircross,33,GNV
+14964,Renault Koleos,73,Álcool
+15005,Skoda Karoq,57,Álcool
+15046,Seat Tarraco,75,Gasolina
+15089,Opel Grandland X,32,Gasolina
+15132,Hyundai Kona Electric,48,GNV
+15172,Kia Niro,13,Álcool
+15212,Nissan Ariya,83,GNV
+15251,Toyota RAV4 Prime,95,Gasolina
+15300,Honda CR-V Hybrid,75,GNV
+15345,Ford Mustang Mach-E,60,Diesel
+15382,Chevrolet Bolt EV,37,Álcool
+15426,Volkswagen ID.4,36,Gasolina
+15468,BMW iX3,52,Álcool
+15514,Mercedes-Benz EQC,71,GNV
+15554,Audi e-tron,73,Diesel
+15593,Subaru Crosstrek Hybrid,56,Gasolina
+15639,Jeep Renegade 4xe,99,Diesel
+15686,Land Rover Range Rover PHEV,86,Álcool
+15730,Porsche Taycan,92,Álcool
+15777,Lexus UX 300e,67,Diesel
+15815,Jaguar I-Pace,71,Álcool
+15852,Dodge Durango SRT Hellcat,12,Gasolina
+15891,Volvo XC40 Recharge,59,Gasolina
+15930,Buick Envision Hybrid,14,Gasolina
+15972,Lincoln Aviator Grand Touring,65,Gasolina
+16018,Cadillac XT6 Sport,62,Álcool
+16057,GMC Hummer EV,90,Gasolina
+16094,Infiniti QX55,67,Diesel
+16135,Fiat Panda Hybrid,14,GNV
+16174,Mini Countryman PHEV,94,Gasolina
+16218,Alfa Romeo Giulietta,86,Álcool
+16261,Maserati GranCabrio,5,Diesel
+16309,Rolls-Royce Ghost Black Badge,62,GNV
+16356,Bentley Bentayga Speed,31,Diesel
+16400,McLaren 765LT,92,Álcool
+16443,Lotus Evora GT,62,Diesel
+16492,Suzuki Swift Sport,36,Álcool
+16538,Peugeot 208 GTi by Peugeot Sport,85,Diesel
+16582,Citroen C3 WRC,22,Gasolina
+16620,Renault Mégane RS,74,Diesel
+16661,Skoda Octavia RS,91,Gasolina
+16701,Seat Leon Cupra,55,Diesel
+16741,Opel Corsa-e Rally,51,GNV
+16779,Hyundai i20 N,90,Diesel
+16821,Kia Picanto GT,84,Álcool
+16865,Nissan Micra N-Sport,94,Diesel
+16906,Toyota GR Yaris,34,Álcool
+16946,Honda Civic Type R,91,GNV
+16989,Ford Fiesta ST,8,Gasolina
+17033,Chevrolet Sonic RS,53,Gasolina
+17071,Volkswagen Polo GTI,13,GNV
+17117,BMW M135i xDrive,73,GNV
+17157,Mercedes-AMG A 35,38,Diesel
+17202,Audi S3 Sportback,64,GNV
+17247,Subaru WRX STI,42,Gasolina
+17289,Jeep Compass 4xe,65,Álcool
+17331,Land Rover Range Rover Sport PHEV,92,GNV
+17375,Porsche 911 Turbo S,65,Álcool
+17423,Lexus GS F,98,Álcool
+17465,Jaguar F-Type R,50,Diesel
+17513,Dodge Challenger SRT Super Stock,40,Diesel
+17559,Volvo V60 Polestar Engineered,96,Diesel
+17602,Buick Regal GS,65,GNV
+17642,Lincoln Navigator L Black Label,12,Diesel
+17681,Cadillac CT5-V Blackwing,80,Álcool
+17728,GMC Sierra Denali,16,Álcool
+17774,Infiniti QX80 Limited,98,GNV
+17817,Fiat 500 Abarth,92,Gasolina
+17861,Mini John Cooper Works,11,Gasolina
+17902,Alfa Romeo 4C Spider,79,Gasolina
+17945,Maserati Ghibli Trofeo,98,Diesel
+17991,Rolls-Royce Ghost Extended,73,Diesel
+18038,Bentley Continental GT Speed,26,Diesel
+18081,McLaren 620R,9,Álcool
+18126,Lotus Exige Cup,12,Álcool
+18169,Suzuki Swift Hybrid,62,GNV
+18215,Peugeot 208 Hybrid,99,GNV
+18257,Citroen C4 Cactus,88,Gasolina
+18296,Renault Zoe E-Tech,48,Álcool
+18337,Skoda Enyaq iV,74,Gasolina
+18384,Seat Cupra Formentor,6,Gasolina
+18427,Opel Mokka-e,72,Diesel
+18472,Hyundai Ioniq Electric,59,GNV
+18516,Kia EV6,29,Diesel
+18559,Nissan Leaf,42,Álcool
+18602,Toyota Mirai,62,Gasolina
+18642,Honda Clarity,61,Gasolina
+18686,Ford Mustang Mach-E GT,56,Diesel
+18733,Chevrolet Bolt EUV,63,Diesel
+18780,Volkswagen ID.3,53,Gasolina
+18823,BMW i4,18,Álcool
+18867,Mercedes-Benz EQA,22,Diesel
+18914,Audi Q4 e-tron,18,GNV
+18961,Subaru Solterra,92,GNV
+19005,Jeep Wrangler 4xe,66,Diesel
+19046,Land Rover Range Rover Velar PHEV,40,GNV
+19093,Porsche Taycan Cross Turismo,56,Diesel
+19132,Lexus RX 450h,82,Gasolina
+19175,Jaguar F-Pace SVR,21,Álcool
+19215,Dodge Durango SRT Hellcat,62,GNV
+19258,Volvo XC90 Recharge,37,GNV
+19300,Buick Enclave Avenir,67,Álcool
+19344,Lincoln Aviator Black Label,89,Diesel
+19383,Cadillac Escalade ESV,36,Gasolina
+19422,GMC Sierra AT4,75,GNV
+19467,Infiniti QX60 Monograph,27,Álcool
+19514,Fiat 500X Sport,95,GNV
+19555,Mini Cooper SE,84,Diesel
+19600,Alfa Romeo Giulietta Veloce,42,Gasolina
+19641,Maserati Levante Trofeo,39,Diesel
+19681,Rolls-Royce Dawn Black Badge,10,Álcool
+19720,Bentley Bentayga Mulliner,50,Álcool
+19762,McLaren 720S GT3,91,Álcool
+19804,Lotus Evora GT4,51,Álcool
+19844,Suzuki Jimny Sierra,73,GNV
+19889,Peugeot 3008 Hybrid,54,GNV
+19931,Citroen C5 Aircross Hybrid,99,Diesel
+19977,Renault Arkana E-Tech,37,GNV
+20022,Skoda Superb iV,62,Diesel
+20066,Seat Tarraco e-Hybrid,83,Álcool
+20109,Opel Grandland X Hybrid4,21,Diesel
+20153,Hyundai Tucson Hybrid,71,Diesel
+20197,Kia Sorento Hybrid,93,GNV
+20236,Nissan Qashqai e-Power,37,GNV
+20281,Toyota Venza,21,Álcool
+20325,Honda Insight,52,Diesel
+20364,Ford Escape Plug-In Hybrid,57,Gasolina
+20410,Chevrolet Equinox Hybrid,27,Gasolina
+20451,Volkswagen Tiguan eHybrid,86,GNV
+20492,BMW X5 xDrive45e,78,Diesel
+20531,Mercedes-Benz GLE 350de,70,Álcool
+20578,Audi Q7 e-tron,99,Diesel
+20620,Subaru Outback Wilderness,67,Diesel
+20664,Jeep Grand Cherokee L,10,GNV
+20705,Land Rover Defender P400e,98,Álcool
+20746,Porsche Cayenne E-Hybrid,65,Álcool
+20789,Lexus LX,97,Gasolina
+20834,Jaguar I-Pace SVR,46,Diesel
+20874,Dodge Journey Crossroad,59,Diesel
+20919,Volvo XC60 Recharge,28,Gasolina
+20961,Buick Envision Avenir,87,Gasolina
+21001,Lincoln Corsair Black Label,58,Gasolina
+21043,Cadillac XT6 Sport,51,Gasolina
+21087,GMC Hummer EV SUV,10,Diesel
+21129,Infiniti QX50 Autograph,76,Álcool
+21171,Fiat Panda Sport,68,Gasolina
+21217,Mini John Cooper Works GP,41,Álcool
+21262,Alfa Romeo Giulia Quadrifoglio,52,GNV
+21308,Maserati Quattroporte Trofeo,54,Álcool
+21354,Rolls-Royce Cullinan Black Badge,41,Diesel
+21401,Bentley Flying Spur Blackline,15,Diesel
+21447,McLaren 720S Spider,48,Álcool
+21490,Lotus Evija,55,Álcool
+21532,Suzuki Ignis Adventure,86,GNV
+21573,Peugeot 2008 GT,22,Gasolina
+21618,Citroen C3 Picasso,6,Diesel
+21657,Renault Scenic,69,Gasolina
+21700,Skoda Kamiq,91,GNV
+21739,Seat Arona FR,55,Álcool
+21782,Opel Crossland X Ultimate,24,Gasolina
+21826,Hyundai Kona N,49,Diesel
+21871,Kia Picanto X-Line,13,Gasolina
+21914,Nissan Micra N-Sport,100,Álcool
+21960,Toyota Yaris GRMN,85,Gasolina
+22007,Honda Civic Si,47,Álcool
+22052,Ford Fiesta Active,96,Diesel
+22097,Chevrolet Spark Activ,70,Diesel
+22142,Volkswagen Polo R-Line,79,GNV
+22187,BMW M2 Competition,21,Gasolina
+22234,Mercedes-AMG CLA 45,7,Álcool
+22278,Audi S4 Avant,80,GNV
+22321,Subaru Levorg,16,Gasolina
+22363,Jeep Cherokee Trailhawk Elite,96,Diesel
+22408,Land Rover Range Rover Velar SVAutobiography Dynamic,21,Diesel
+22451,Porsche 718 Boxster GTS,97,Gasolina
+22492,Lexus LC,15,Álcool
+22533,Jaguar XKR-S,26,Álcool
+22574,Dodge Challenger SRT Demon,43,GNV
+22619,Volvo S60 Polestar Engineered,86,Gasolina
+22663,Buick Regal TourX,25,Diesel
+22709,Lincoln Continental Coach Door Edition,32,GNV
+22755,Cadillac CT6 Platinum,49,Diesel
+22800,GMC Canyon Denali,64,Álcool
+22846,Infiniti QX70,48,Diesel
+22891,Fiat 500C,91,Gasolina
+22937,Mini Cooper Convertible,39,Álcool
+22982,Alfa Romeo 8C Spider,49,Álcool
+23027,Maserati GranCabrio Sport,86,GNV
+23072,Rolls-Royce Wraith Black Badge,28,Gasolina
+23116,Bentley Continental GT Mulliner,72,Diesel
+23159,McLaren 720S Spider Luxury,27,GNV
+23202,Lotus Evora GT410,90,Diesel
+23246,Suzuki Swift Attitude,93,Álcool
+23290,Peugeot 308 GT,79,Gasolina
+23335,Citroen C4 Picasso,55,Gasolina
+23382,Renault Grand Scenic,27,Álcool
+23427,Skoda Scala Monte Carlo,42,Diesel
+23469,Seat Leon Cupra R,26,Gasolina
+23513,Opel Astra Sports Tourer,14,Álcool
+23560,Hyundai i30 N,76,Diesel
+23603,Kia Picanto GT-Line,86,GNV
+23645,Nissan Juke Nismo RS,52,Gasolina
+23686,Toyota Aygo X-Cite,74,Diesel
+23727,Honda Jazz Sport,100,GNV
+23774,Ford Fiesta Vignale,69,Álcool
+23815,Chevrolet Trax Premier,90,Álcool
+23860,Volkswagen T-Roc R,15,Gasolina
+23906,BMW X3 M,55,Diesel
+23948,Mercedes-Benz GLC 43 AMG,43,GNV
+23989,Audi SQ5,21,Gasolina
+24032,Subaru Forester Sport,18,Álcool
+24077,Jeep Grand Cherokee Trailhawk Elite,13,Diesel
+24119,Land Rover Discovery HSE Luxury,54,Álcool
+24160,Porsche Cayenne Coupe,85,GNV
+24202,Lexus GX,47,Gasolina
+24245,Jaguar XJR,28,Diesel
+24287,Dodge Charger Daytona,99,GNV
+24328,Volvo V90 Cross Country,92,Diesel
+24375,Buick LaCrosse Avenir,51,Álcool
+24419,Lincoln MKZ Reserve,29,Gasolina
+24464,Cadillac CT4-V Blackwing,25,Álcool
+24508,GMC Sierra Denali HD,90,Diesel
+24553,Infiniti QX50 Sensory,98,GNV
+24597,Fiat 500L Cross,20,Gasolina
+24639,Mini Clubman John Cooper Works,14,Álcool
+24683,Alfa Romeo Giulietta Veloce Ti,27,Diesel
+24726,Maserati GranCabrio MC,52,GNV
+24771,Rolls-Royce Ghost Extended Wheelbase,65,Gasolina
+24816,Bentley Mulsanne Speed,6,Diesel
+24859,McLaren 620R Spider,61,Álcool
+24900,Lotus Elise Sport 220,51,GNV
+24945,Suzuki Swift SZ-L,32,Gasolina
+24988,Peugeot 208 Like,48,Álcool
+25032,Citroen C3 PureTech,78,Diesel
+25078,Renault Clio Iconic,95,GNV
+25120,Skoda Octavia Scout,58,Gasolina
+25161,Seat Ibiza FR,31,Álcool
+25207,Opel Corsa GS Line,17,Diesel
+25252,Hyundai i20 N Line,83,GNV
+25294,Kia Rio GT-Line,26,Gasolina
+25337,Nissan Micra Tekna,84,Álcool
+25382,Toyota Yaris Cross,77,Diesel
+25427,Honda HR-V Sport,47,GNV
+25470,Ford Puma ST,70,Gasolina
+25516,Chevrolet Bolt EUV Premier,50,Álcool
+25557,Volkswagen ID.4 GTX,78,Diesel
+25602,BMW iX3 M50,77,GNV
+25646,Mercedes-Benz EQB 350 4MATIC,26,Gasolina
+25689,Audi Q4 Sportback e-tron,26,Álcool
+25734,Subaru Solterra Advance,53,Diesel
+25779,Jeep Grand Wagoneer Series III,7,GNV
+25821,Land Rover Range Rover Velar R-Dynamic Black,98,Gasolina
+25865,Porsche Taycan Sport Turismo,12,Álcool
+25908,Lexus RX 450hL,31,Diesel
+25954,Jaguar I-Pace EV400 S,29,GNV
+25999,Dodge Durango SRT Hellcat Redeye,55,Gasolina
+26044,Volvo XC90 Recharge Inscription Expression,81,Álcool
+26087,Buick Enclave Essence,6,Diesel
+26129,Lincoln Aviator Reserve,8,GNV
+26174,Cadillac Escalade Sport Platinum,21,Gasolina
+26218,GMC Sierra AT4X,50,Álcool
+26262,Infiniti QX55 Essential,79,Diesel
+26309,Fiat 500X Sport Plus,13,GNV
+26352,Mini John Cooper Works Knights Edition,22,Gasolina
+26396,Alfa Romeo Giulia Veloce Ti,38,Álcool
+26440,Maserati Levante S GranSport,70,Diesel
+26482,Rolls-Royce Cullinan Black Badge Adamas,92,GNV
+26526,Bentley Flying Spur V8,76,Gasolina
+26570,McLaren 720S Track Pack,47,Álcool
+26615,Lotus Exige Sport 390,96,Diesel
+26657,Suzuki Ignis Urban,37,GNV
+26703,Peugeot 3008 Hybrid4 GT,25,Gasolina
+26747,Citroen C5 Aircross Hybrid Shine,80,Álcool
+26791,Renault Arkana R.S. Line,72,Diesel
+26834,Skoda Enyaq iV 60,94,GNV
+26877,Seat Cupra Formentor VZ5,61,Gasolina
+26922,Opel Mokka-e Ultimate,98,Álcool
+26965,Hyundai Ioniq 5,31,Diesel
+27008,Kia EV6 GT-Line,15,GNV
+27052,Nissan Leaf e+,69,Gasolina
+27096,Toyota Mirai Design,52,Álcool
+27142,Honda Clarity Fuel Cell,58,Diesel
+27187,Ford Mustang Mach-E GT Performance Edition,95,GNV
+27232,Chevrolet Bolt EUV Premier with Super Cruise,79,Gasolina
+27276,Volkswagen ID.3 Tour,35,Álcool
+27322,BMW i4 M50,99,Diesel
+27366,Mercedes-Benz EQA 250e AMG Line,43,GNV
+27409,Audi Q4 e-tron S line,82,Gasolina
+27452,Subaru Solterra Luxury,68,Álcool
+27497,Jeep Wrangler 4xe Rubicon,80,Diesel
+27542,Land Rover Range Rover Sport PHEV HSE,61,GNV
+27587,Porsche Taycan GTS,26,Gasolina
+27630,Lexus LS 500h,68,Álcool
+27673,Jaguar I-Pace EV320 S,92,Diesel
+27716,Dodge Durango SRT Super Stock,17,GNV
+27762,Volvo XC90 Recharge R-Design,72,Gasolina
+27805,Buick Enclave Avenir Sport,14,Álcool
+27848,Lincoln Aviator Black Label Grand Touring,88,Diesel
+27893,Cadillac Escalade ESV Sport Platinum,71,GNV
+27936,GMC Sierra 1500 AT4 CarbonPro Edition,23,Gasolina
+27978,Infiniti QX80 Sensory,72,Álcool
+28024,Fiat 500 Dolcevita,33,Diesel
+28066,Mini John Cooper Works Knights Edition Plus,62,GNV
+28108,Alfa Romeo Giulia Sprint,90,Gasolina
+28154,Maserati Levante GTS GranSport,88,Álcool
+28196,Rolls-Royce Cullinan Adamas Edition,90,Diesel
+28240,Bentley Flying Spur V8 S,73,GNV
+28284,McLaren 720S Spider Track Theme,71,Gasolina
+28330,Lotus Evora GT430,10,Álcool
+28374,Suzuki Swift SZ-T,25,Diesel
+28417,Peugeot 2008 Allure Premium,99,GNV
+28460,Citroen C3 Origins,79,Gasolina
+28503,Renault Scenic Initiale Paris,90,Álcool
+28547,Skoda Kamiq Monte Carlo,42,Diesel
+28592,Seat Arona FR Sport,49,GNV
+28637,Opel Crossland GS Line,53,Gasolina
+28680,Hyundai Kona N Line,41,Álcool
+28726,Kia Picanto GT-Line S,39,Diesel
+28772,Nissan Micra N-Sport Limited Edition,62,GNV
+28816,Toyota Yaris Y20,11,Gasolina
+28859,Honda Jazz Crosstar,43,Álcool
+28902,Ford Fiesta ST-Line,62,Diesel
+28947,Chevrolet Spark ACTIV Plus,52,GNV
+28991,Volkswagen Polo Beats,30,Gasolina
+29036,BMW 218i Gran Coupe M Sport,54,Álcool
+29081,Mercedes-AMG CLA 45 S,16,Diesel
+29124,Audi S5 Sport,16,GNV
+29169,Subaru WRX Premium,36,Gasolina
+29214,Jeep Grand Cherokee L Summit Reserve,91,Álcool
+29257,Land Rover Range Rover Velar R-Dynamic HSE,76,Diesel
+29303,Porsche 911 Targa 4S Heritage Design Edition,86,GNV
+29346,Lexus LX 570,79,Gasolina
+29389,Jaguar XJ Ultimate,5,Álcool
+29435,Dodge Challenger SRT Hellcat Redeye Widebody,43,Diesel
+29477,Volvo S60 T8 Polestar Engineered,86,GNV
+29523,Buick Regal Avenir,54,Gasolina
+29568,Lincoln MKZ Reserve II,76,Álcool
+29611,Cadillac CT6 Sport,42,Diesel
+29655,GMC Canyon Denali Black Diamond Edition,13,GNV
+29697,Infiniti QX70 Limited,58,Gasolina
+29741,Fiat 500 Spiaggina '58,96,Álcool
+29787,Mini Clubman John Cooper Works Knights Edition,54,Diesel
+29832,Alfa Romeo 4C Spider Italia,78,GNV
+29875,Maserati GranCabrio MC Centennial Edition,10,Gasolina
+29917,Rolls-Royce Ghost Zenith Collection,89,Álcool
+29961,Bentley Continental GT Mulliner Blackline,89,Diesel
+30005,McLaren 620R Spider Track Theme,80,GNV
+30050,Lotus Elise Cup 250,35,Gasolina
+30094,Suzuki Swift Attitude+,97,Álcool
+30136,Peugeot 208 GTi Prestige,6,Diesel
+30180,Citroen C3 Shine,12,GNV
+30224,Renault Clio RS Line,76,Gasolina
+30269,Skoda Octavia SE Technology,22,Álcool
+30312,Seat Ibiza Xcellence Lux,39,Diesel
+30356,Opel Corsa Ultimate,90,GNV
+30398,Hyundai i20 N Line S,90,Gasolina
+30444,Kia Rio GT-Line S,61,Álcool
+30488,Nissan Micra N-Sport Limited Edition,52,Diesel
+30533,Toyota Yaris GR Sport,37,GNV
+30578,Honda HR-V ,74,Gasolina

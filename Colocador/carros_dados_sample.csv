@@ -1,0 +1,101 @@
+CHASSI,NOMECARRO,KMPORDIA,COMBUSTIVEL
+1023,Toyota Corolla,41,diesel
+1079,Honda Civic,28,gasolina
+1182,Ford Mustang,24,diesel
+1288,Chevrolet Camaro,59,gasolina
+1329,Volkswagen Golf,50,diesel
+1338,BMW 3 Series,26,alcool
+1368,Mercedes-Benz C-Class,46,gasolina
+1420,Audi A4,20,diesel
+1486,Subaru Outback,68,gnv
+1717,Jeep Wrangler,66,diesel
+1747,Nissan Altima,22,diesel
+1813,Hyundai Sonata,57,alcool
+1845,Kia Optima,65,gasolina
+1924,Mazda MX-5,40,diesel
+1975,Tesla Model S,25,diesel
+2130,Porsche 911,59,gasolina
+2236,Ferrari 488,18,diesel
+2257,Lamborghini Huracan,56,gnv
+2565,Aston Martin Vantage,39,gasolina
+2729,Lexus RX,26,diesel
+2835,Jaguar F-Type,57,diesel
+2848,Land Rover Range Rover,37,gasolina
+2858,Dodge Challenger,58,gasolina
+3011,Chrysler 300,50,gasolina
+3215,Buick Regal,30,diesel
+3233,Lincoln Navigator,20,diesel
+3717,Cadillac Escalade,62,diesel
+3753,GMC Yukon,18,diesel
+3762,Infiniti Q50,25,diesel
+3777,Volvo XC90,66,diesel
+3780,Fiat 500,28,gasolina
+3801,Mini Cooper,49,diesel
+3847,Alfa Romeo Giulia,17,diesel
+3900,Maserati GranTurismo,65,gasolina
+3940,Rolls-Royce Phantom,34,diesel
+4069,Bentley Continental GT,55,diesel
+4078,Bugatti Chiron,35,alcool
+4226,McLaren 720S,15,gasolina
+4338,Lotus Evora,33,diesel
+4348,Suzuki Swift,22,gasolina
+4392,Peugeot 308,62,gasolina
+4417,Citroen C3,39,diesel
+4464,Renault Clio,31,diesel
+4602,Skoda Octavia,40,diesel
+4670,Seat Leon,69,gasolina
+4677,Opel Corsa,58,diesel
+4895,Hyundai Tucson,38,gasolina
+4974,Kia Sportage,37,diesel
+5019,Nissan Qashqai,37,diesel
+5036,Toyota RAV4,50,diesel
+5164,Honda CR-V,49,gasolina
+5180,Ford Escape,21,diesel
+5210,Chevrolet Equinox,15,diesel
+5213,Volkswagen Tiguan,69,diesel
+5223,BMW X3,66,diesel
+5269,Mercedes-Benz GLC,18,diesel
+5356,Audi Q5,32,gasolina
+5439,Subaru Forester,51,diesel
+5467,Jeep Grand Cherokee,63,gasolina
+5687,Land Rover Discovery,15,diesel
+5784,Porsche Cayenne,67,diesel
+5869,Lexus NX,62,gasolina
+5979,Jaguar F-Pace,39,diesel
+6004,Dodge Durango,43,diesel
+6025,Volvo XC60,31,diesel
+6181,Buick Enclave,16,diesel
+6222,Lincoln Aviator,18,diesel
+6306,Cadillac XT5,23,diesel
+6391,GMC Acadia,42,diesel
+6604,Infiniti QX50,69,diesel
+6655,Fiat 500X,31,diesel
+6685,Mini Countryman,59,diesel
+6722,Alfa Romeo Stelvio,16,diesel
+6725,Maserati Levante,48,diesel
+6777,Rolls-Royce Cullinan,35,gasolina
+6789,Bentley Bentayga,21,diesel
+6792,McLaren GT,38,diesel
+6806,Lotus Exige,16,diesel
+6877,Suzuki Jimny,17,diesel
+7225,Peugeot 3008,32,diesel
+7230,Citroen C4,43,diesel
+7259,Renault Kadjar,26,gasolina
+7340,Skoda Kodiaq,57,diesel
+7363,Seat Ateca,18,diesel
+7365,Opel Crossland X,16,diesel
+7378,Hyundai Santa Fe,66,gasolina
+7405,Kia Sorento,52,diesel
+7633,Nissan Rogue,52,gnv
+7709,Toyota Highlander,15,diesel
+7917,Honda Pilot,16,gasolina
+7974,Ford Explorer,54,diesel
+8029,Chevrolet Traverse,48,diesel
+8147,Volkswagen Atlas,40,gasolina
+8168,BMW X5,37,diesel
+8408,Mercedes-Benz GLE,52,diesel
+8437,Audi Q7,25,diesel
+8613,Subaru Ascent,36,diesel
+8707,Jeep Cherokee,57,diesel
+8735,Land Rover Range Rover Sport,31,diesel
+8843,Porsche Macan,35,diesel
